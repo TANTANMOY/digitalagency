@@ -18,3 +18,10 @@
     top: 45%;
     
 }
+
+@media (max-width: 381px){
+    .font{
+        position: relative;
+        top: 15%;
+    }
+}
